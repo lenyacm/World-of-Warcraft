@@ -3,6 +3,7 @@
 #include"Others.h"
 
 int  Warriors::total[2] = { 0 };
+
 void Warriors::init(int input)
 {
 	total[0] = total[1] = input;
